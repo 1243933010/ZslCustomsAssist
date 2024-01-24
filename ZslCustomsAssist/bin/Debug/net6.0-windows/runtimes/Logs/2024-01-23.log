@@ -1,0 +1,18 @@
+﻿程序开始>>>>>>
+[ZslCustomsAssist.Program-LogSystemMsg][58][INFO][1] 2024-01-23 14:55:42,815--当前客户端版本号：1.0.0.0
+[ZslCustomsAssist.Program-LogSystemMsg][59][INFO][1] 2024-01-23 14:55:42,842--当前运行环境：Windows 10 Enterprise(64) 版本号:19045
+[ZslCustomsAssist.SPSecure.SPSecureAPI-SpcGetErrMsg][370][INFO][1] 2024-01-23 14:55:46,537--【打开设备0】提示信息！
+[ZslCustomsAssist.SPSecure.SPSecureAPI-SpcGetErrMsg][374][INFO][1] 2024-01-23 14:55:46,589--E-PortMsg--==：打开设备成功！
+[ZslCustomsAssist.SPSecure.SPSecureAPI-SpcGetErrMsg][370][INFO][1] 2024-01-23 14:55:47,148--【获取卡号0】提示信息！
+[ZslCustomsAssist.SPSecure.SPSecureAPI-SpcGetErrMsg][374][INFO][1] 2024-01-23 14:55:47,149--E-PortMsg--==：获取卡号成功！
+[ZslCustomsAssist.Jobs.ClearTimeOutFileJob-ClearFile][55][INFO][13] 2024-01-23 14:55:47,862--C:\Users\vankeadmin\Desktop\ZslCustomsAssist\ZslCustomsAssist\bin\Debug\net6.0-windows\Log不存在，取消清除！
+[ZslCustomsAssist.FormLogin-FormLogin_Load][127][INFO][1] 2024-01-23 14:55:47,974--当前IC卡号：2100060054480
+[ZslCustomsAssist.SPSecure.SPSecureAPI-SpcGetErrMsg][370][INFO][29] 2024-01-23 14:55:50,619--【关闭加密设备0】提示信息！
+[ZslCustomsAssist.SPSecure.SPSecureAPI-SpcGetErrMsg][374][INFO][29] 2024-01-23 14:55:50,619--E-PortMsg--==：关闭加密设备成功！
+[ZslCustomsAssist.Jobs.ExitProgramJob+<>c__DisplayClass2_0-<QuitApplication>b__0][61][INFO][29] 2024-01-23 14:55:50,649--本次启动:
+发送报文数	0
+发送失败报文数	0
+接收回执数	0
+写入回执数	0
+程序退出！
+程序关闭!!!!!!
